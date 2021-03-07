@@ -1,7 +1,8 @@
-<Configuration ID="72e0dc2c-ef02-4aae-bbaa-a6dd0b9d70c2">
+<Configuration ID="0efa1640-29a9-4a68-97c6-6359315c8ed6">
   <Add OfficeClientEdition="64" Channel="Current">
     <Product ID="O365ProPlusRetail">
       <Language ID="MatchOS" />
+      <Language ID="ja-jp" />
       <ExcludeApp ID="Access" />
       <ExcludeApp ID="Groove" />
       <ExcludeApp ID="Lync" />
@@ -9,11 +10,7 @@
       <ExcludeApp ID="OneNote" />
       <ExcludeApp ID="Outlook" />
       <ExcludeApp ID="Publisher" />
-      <ExcludeApp ID="Teams" />
       <ExcludeApp ID="Bing" />
-    </Product>
-    <Product ID="ProofingTools">
-      <Language ID="ja-jp" />
     </Product>
   </Add>
   <Property Name="SharedComputerLicensing" Value="0" />
